@@ -16,7 +16,7 @@ sdist
 develop-eggs
 .installed.cfg
 lib
-lib64
+lib64python-testinger
 
 # Installer logs
 pip-log.txt
@@ -33,3 +33,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Pychram
+.idea
