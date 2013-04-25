@@ -12,4 +12,3 @@ def main():
             print('Run scenarios for: {}'.format(getattr(elf, '__stage__', element)))
             cls = elf()
             cls.main()
-            # print element, issubclass(elf, TestCase)
